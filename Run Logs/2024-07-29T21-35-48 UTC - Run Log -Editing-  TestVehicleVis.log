@@ -1,0 +1,104 @@
+﻿2024-07-29 21:35:48.4 UTC - mysticetus	Information	0	Mysticetus Version: 2024.31.0.0
+2024-07-29 21:35:48.4 UTC - mysticetus	Information	0	Application started.
+2024-07-29 21:35:48.4 UTC - mysticetus	Information	0	Command line: C:\Users\PSO User\AppData\Local\Programs\Mysticetus\mysticetus.dll /runmode:editing /advanced
+2024-07-29 21:35:48.4 UTC - mysticetus	Information	0	Time zone: (UTC) Coordinated Universal Time
+2024-07-29 21:35:50.6 UTC - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Vessel.2024-8840065, update frequency 00:00:00
+2024-07-29 21:35:50.6 UTC - mysticetus	Information	0	Git DFO.CP.West.Saturna.Vessel.2024 - 8840065 Shutdown
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Vessel.2024-8840065, update frequency 00:01:00
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	RunMode: Editing
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	StationId: TestVehicleVis
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	Vehicle: Test Vehicle
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	DisplayMap: True
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	AppDataPath: C:\Users\PSO User\AppData\Local\Mysticetus\Temp
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	EntryTemplatePath: C:\Users\PSO User\AppData\Local\Mysticetus\Temp\EntryTemplates
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	DataStoragePath: C:\Users\PSO User\AppData\Local\Mysticetus\Temp\Observations
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	InitialFile: C:\Users\PSO User\Mysticetus\Projects\DFO.CP.West.Saturna.Vessel.2024-8840065\Template\DFO CP West Template.Mysticetus
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	TopoDirectory: 
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	CartographyDirectory: 
+2024-07-29 21:35:51.2 UTC - mysticetus	Information	0	Email system initialized
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Mainform starting...
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	MainForm_Load...
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Settings Deserialize...
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Settings Deserialize complete.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Initializing Draw Manager
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Draw Manager successfully initialized.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Control Manager Initializing...
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Control Manager successfully initialized.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Cartography Manager Initializing...
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Atlantic_City_DEM_1005\atlantic_city_nj.hdr' successfully loaded.
+2024-07-29 21:35:51.3 UTC - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Atlantic_City_DEM_1005\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\ETOPO1\Worldwide Bedrock (1 arc-minute).hdr' successfully loaded.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Northeast CRM\US Northeast (3 arc-second).hdr' successfully loaded.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Southeast CRM\US Southeast (3 arc-second).hdr' successfully loaded.
+2024-07-29 21:35:51.3 UTC - mysticetus	Information	0	Cartography Manager successfully initialized.
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	Geo Manager Initializing...
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	Geo Manager successfully initialized.
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-07-29 21:35:51.4 UTC - mysticetus	Information	0	CreateTopTabControl complete.
+2024-07-29 21:35:51.5 UTC - mysticetus	Information	0	Loading file 'C:\Users\PSO User\Mysticetus\Projects\DFO.CP.West.Saturna.Vessel.2024-8840065\Template\DFO CP West Template.Mysticetus'
+2024-07-29 21:35:51.7 UTC - mysticetus	Information	0	Settings Deserialize...
+2024-07-29 21:35:51.7 UTC - mysticetus	Information	0	Settings Deserialize complete.
+2024-07-29 21:35:51.8 UTC - mysticetus	Information	0	RebuildAllHotKeys...
+2024-07-29 21:35:51.8 UTC - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-07-29 21:35:51.8 UTC - mysticetus	Information	0	Network initialization started...
+2024-07-29 21:35:51.8 UTC - mysticetus	Information	0	Network Init - Success
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	RTImports LoadState...
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	Disposing RTImportShapefile
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 21:35:51.9 UTC - mysticetus	Information	0	RTImports LoadState complete.
+2024-07-29 21:35:54.2 UTC - mysticetus	Information	0	Git task initialized - DFO.CP-8830027, update frequency 00:00:00
+2024-07-29 21:35:54.2 UTC - mysticetus	Information	0	Git DFO.CP - 8830027 Shutdown
+2024-07-29 21:35:54.8 UTC - mysticetus	Information	0	Git task initialized - DFO.CP-8830027, update frequency 00:15:00
+2024-07-29 21:35:54.9 UTC - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-07-29 21:35:54.9 UTC - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-07-29 21:35:54.9 UTC - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-07-29 21:35:54.9 UTC - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Network initialization started...
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Network Init - Success
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	RTImports LoadState...
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	RebuildAllHotKeys...
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	CreateMapPage...
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Disposing RTImportShapefile
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	RTImports LoadState complete.
+2024-07-29 21:35:55.4 UTC - mysticetus	Information	0	Loaded file 'C:\Users\PSO User\Mysticetus\Projects\DFO.CP.West.Saturna.Vessel.2024-8840065\Template\DFO CP West Template.Mysticetus'...
+2024-07-29 21:35:55.5 UTC - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-07-29 21:35:55.5 UTC - mysticetus	Information	0	CreateMapPage complete.
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\EquinorComplianceQuestions.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\EquinorReports.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\EquinorSimpleUI.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\InvenergyReports.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\OrstedReports.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\OrstedSimpleUI.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugin found - C:\Users\PSO User\AppData\Local\Programs\Mysticetus\Plugins\VineyardSimpleUI.dll
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	Plugins initialized - 7 plugins found.
+2024-07-29 21:35:55.9 UTC - mysticetus	Information	0	MainForm_Load complete.
+2024-07-29 21:35:56.1 UTC - mysticetus	Information	0	MainForm_Shown...
+2024-07-29 21:35:56.1 UTC - mysticetus	Information	0	CheckBathy...
+2024-07-29 21:35:56.1 UTC - mysticetus	Information	0	CheckBathy complete.
+2024-07-29 21:35:56.1 UTC - mysticetus	Information	0	MainForm_Shown complete.
+2024-07-29 21:35:57.1 UTC - mysticetus	Information	0	Download Remote Update: Starting...
+2024-07-29 21:35:57.2 UTC - mysticetus	Information	0	Local version up to date.
+2024-07-29 21:35:57.2 UTC - mysticetus	Information	0	Check Update: Checking for local update availability...
+2024-07-29 21:35:57.2 UTC - mysticetus	Information	0	Check Update: No local update available.
+2024-07-29 21:36:06.2 UTC - mysticetus	Information	0	Map 'C:\Users\Public\Documents\mysticetus\Maps\Medium Res US Shoreline\us_medium_shoreline.shp' successfully loaded.
+2024-07-29 21:36:28.5 UTC - mysticetus	Information	0	Git task initialized - DFO.MPO.Enforcement.Saturna.Vessel.2024-88745, update frequency 00:00:00
+2024-07-29 21:36:28.5 UTC - mysticetus	Information	0	Git DFO.MPO.Enforcement.Saturna.Vessel.2024 - 88745 Shutdown
+2024-07-29 21:36:30.7 UTC - mysticetus	Information	0	No ```json block was found within readme.md in C:\Users\PSO User\Mysticetus\Projects\Orsted.Const-0321158
+2024-07-29 21:36:30.7 UTC - mysticetus	Information	0	Git task initialized - Orsted.Const-0321158, update frequency 00:00:00
+2024-07-29 21:36:30.7 UTC - mysticetus	Information	0	Git Orsted.Const - 0321158 Shutdown
+2024-07-29 21:36:35.5 UTC - mysticetus	Information	0	MainForm_FormClosing...
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	Application shutting down...
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	Application shut down.
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	MainForm_FormClosing - Cancel: False...
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	App exiting.
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	Git DFO.CP - 8830027 Shutdown
+2024-07-29 21:36:37.1 UTC - mysticetus	Information	0	Git DFO.CP.West.Saturna.Vessel.2024 - 8840065 Shutdown
