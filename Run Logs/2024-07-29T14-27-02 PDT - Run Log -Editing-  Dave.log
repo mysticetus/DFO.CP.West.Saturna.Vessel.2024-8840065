@@ -1,0 +1,157 @@
+﻿2024-07-29 14:27:02.4 PDT - mysticetus	Information	0	Mysticetus Version: 2024.31.0.0
+2024-07-29 14:27:02.4 PDT - mysticetus	Information	0	Application started.
+2024-07-29 14:27:02.4 PDT - mysticetus	Information	0	Command line: C:\Users\david\AppData\Local\Programs\Mysticetus\mysticetus.dll /runmode:editing /advanced
+2024-07-29 14:27:02.4 PDT - mysticetus	Information	0	Time zone: (UTC-08:00) Pacific Time (US & Canada)
+2024-07-29 14:27:06.2 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021 - The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 3 | BytePositionInLine: 0. -    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 810
+2024-07-29 14:27:06.2 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West-7840021, update frequency 00:00:00
+2024-07-29 14:27:06.2 PDT - mysticetus	Information	0	Git DFO.CP.West - 7840021 Shutdown
+2024-07-29 14:27:07.2 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021 - The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 3 | BytePositionInLine: 0. -    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 810
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West-7840021, update frequency 00:01:00
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	RunMode: Editing
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	StationId: Dave
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	Vehicle: Crew Test Vehicle
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	DisplayMap: True
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	AppDataPath: C:\Users\david\AppData\Local\Mysticetus\Temp
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	EntryTemplatePath: C:\Users\david\AppData\Local\Mysticetus\Temp\EntryTemplates
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	DataStoragePath: C:\Users\david\AppData\Local\Mysticetus\Temp\Observations
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	InitialFile: C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021\Template\DFO CP West Template.Mysticetus
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	TopoDirectory: 
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	CartographyDirectory: 
+2024-07-29 14:27:07.2 PDT - mysticetus	Information	0	Email system initialized
+2024-07-29 14:27:07.3 PDT - mysticetus	Information	0	Mainform starting...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	MainForm_Load...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Settings Deserialize...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Settings Deserialize complete.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Initializing Draw Manager
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Draw Manager successfully initialized.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Control Manager Initializing...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Control Manager successfully initialized.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Cartography Manager Initializing...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Bar_Harbor_DEM_3643\bar_harbor_me_mhw.hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Bar_Harbor_DEM_3643\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Bar_Harbor_DEM_3645\bar_harbor_me_navd88.hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Bar_Harbor_DEM_3645\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Corpus_Christi_DEM_1035\corpus_christi.hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Corpus_Christi_DEM_1035\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\ETOPO1\Worldwide Bedrock (1 arc-minute).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Montauk_DEM_1111\montauk_ny.hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Montauk_DEM_1111\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Nantucket_DEM_1126\nantucket_ma.hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Nantucket_DEM_1126\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Central Gulf of Mexico CRM\US Central Gulf of Mexico (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Central Pacific CRM\US Central Pacific (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Northeast CRM\US Northeast (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Northwest Pacific CRM\US Northwest Pacific (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Southeast CRM\US Southeast (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Southern California CRM\US Southern California (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Western Gulf of Mexico CRM\US Western Gulf of Mexico (3 arc-second).hdr' successfully loaded.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Cartography Manager successfully initialized.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Geo Manager Initializing...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Geo Manager successfully initialized.
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-07-29 14:27:07.4 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-07-29 14:27:07.5 PDT - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-07-29 14:27:07.5 PDT - mysticetus	Information	0	CreateTopTabControl complete.
+2024-07-29 14:27:07.6 PDT - mysticetus	Information	0	Loading file 'C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021\Template\DFO CP West Template.Mysticetus'
+2024-07-29 14:27:07.8 PDT - mysticetus	Information	0	Settings Deserialize...
+2024-07-29 14:27:07.8 PDT - mysticetus	Information	0	Settings Deserialize complete.
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	RebuildAllHotKeys...
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Network initialization started...
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Network Init - Success
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	RTImports LoadState...
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Disposing RTImportShapefile
+2024-07-29 14:27:08.0 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 14:27:08.1 PDT - mysticetus	Information	0	RTImports LoadState complete.
+2024-07-29 14:27:11.8 PDT - mysticetus	Information	0	Git task initialized - DFO.MPO-40921, update frequency 00:00:00
+2024-07-29 14:27:11.8 PDT - mysticetus	Information	0	Git DFO.MPO - 40921 Shutdown
+2024-07-29 14:27:12.7 PDT - mysticetus	Information	0	Git task initialized - DFO.MPO-40921, update frequency 00:15:00
+2024-07-29 14:27:12.7 PDT - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Network initialization started...
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Network Init - Success
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	RTImports LoadState...
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	RebuildAllHotKeys...
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	CreateMapPage...
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Disposing RTImportShapefile
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	RTImports LoadState complete.
+2024-07-29 14:27:12.8 PDT - mysticetus	Information	0	Loaded file 'C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021\Template\DFO CP West Template.Mysticetus'...
+2024-07-29 14:27:12.9 PDT - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-07-29 14:27:13.0 PDT - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-07-29 14:27:13.1 PDT - mysticetus	Information	0	CreateMapPage complete.
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\EquinorComplianceQuestions.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\EquinorReports.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\EquinorSimpleUI.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\InvenergyReports.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\OrstedReports.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\OrstedSimpleUI.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\david\AppData\Local\Programs\Mysticetus\Plugins\VineyardSimpleUI.dll
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	Plugins initialized - 7 plugins found.
+2024-07-29 14:27:13.4 PDT - mysticetus	Information	0	MainForm_Load complete.
+2024-07-29 14:27:13.8 PDT - mysticetus	Information	0	MainForm_Shown...
+2024-07-29 14:27:13.8 PDT - mysticetus	Information	0	CheckBathy...
+2024-07-29 14:27:13.8 PDT - mysticetus	Information	0	CheckBathy complete.
+2024-07-29 14:27:13.8 PDT - mysticetus	Information	0	MainForm_Shown complete.
+2024-07-29 14:27:14.8 PDT - mysticetus	Information	0	Download Remote Update: Starting...
+2024-07-29 14:27:15.3 PDT - mysticetus	Information	0	Local version up to date.
+2024-07-29 14:27:15.3 PDT - mysticetus	Information	0	Check Update: Checking for local update availability...
+2024-07-29 14:27:15.3 PDT - mysticetus	Information	0	Check Update: No local update available.
+2024-07-29 14:27:23.2 PDT - mysticetus	Information	0	Map 'C:\Users\Public\Documents\mysticetus\Maps\Medium Res US Shoreline\us_medium_shoreline.shp' successfully loaded.
+2024-07-29 14:27:59.4 PDT - mysticetus	Information	0	RebuildAllHotKeys...
+2024-07-29 14:27:59.4 PDT - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-07-29 14:28:11.1 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021 - The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 3 | BytePositionInLine: 0. -    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 810
+2024-07-29 14:29:11.5 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021 - The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 3 | BytePositionInLine: 0. -    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 810
+2024-07-29 14:29:20.2 PDT - mysticetus	Information	0	SaveFile: saving 'C:\Users\david\AppData\Local\Mysticetus\Temp\4a34fe59-daf4-4ad1-afe5-2c7f9d4ceb40.Mysticetus'
+2024-07-29 14:29:20.2 PDT - mysticetus	Information	0	Settings Serialize...
+2024-07-29 14:29:20.2 PDT - mysticetus	Information	0	Settings Serialize complete.
+2024-07-29 14:29:20.3 PDT - mysticetus	Information	0	SaveFile: successfully saved: 'C:\Users\david\AppData\Local\Mysticetus\Temp\4a34fe59-daf4-4ad1-afe5-2c7f9d4ceb40.Mysticetus'
+2024-07-29 14:29:20.3 PDT - mysticetus	Information	0	SaveFile: 'C:\Users\david\AppData\Local\Mysticetus\Temp\4a34fe59-daf4-4ad1-afe5-2c7f9d4ceb40.Mysticetus' successfully copied to 'C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021\Template\DFO CP West Template.Mysticetus'
+2024-07-29 14:29:20.3 PDT - mysticetus	Information	0	SaveFile: 'C:\Users\david\AppData\Local\Mysticetus\Temp\4a34fe59-daf4-4ad1-afe5-2c7f9d4ceb40.Mysticetus' successfully copied to 'C:\Users\david\OneDrive\Documents\Mysticetus\AutoSave\Dave\2024-07-29\DFO CP West Template.Mysticetus'
+2024-07-29 14:29:20.3 PDT - mysticetus	Information	0	Saving sighting ids.
+2024-07-29 14:29:20.3 PDT - mysticetus	Information	0	Sighting ids saved successfully.
+2024-07-29 14:29:26.8 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Theo.2024-8840023, update frequency 00:00:00
+2024-07-29 14:29:28.1 PDT - mysticetus	Information	0	Git DFO.CP.West.Saturna.Theo.2024 - 8840023 Shutdown
+2024-07-29 14:30:09.0 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\david\Mysticetus\Projects\DFO.CP.West-7840021 - The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 3 | BytePositionInLine: 0. -    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 810
+2024-07-29 14:30:40.1 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Vessel.2024-8840065, update frequency 00:00:00
+2024-07-29 14:30:40.1 PDT - mysticetus	Information	0	Git DFO.CP.West.Saturna.Vessel.2024 - 8840065 Shutdown
+2024-07-29 14:30:40.6 PDT - mysticetus	Information	0	MainForm_FormClosing...
+2024-07-29 14:30:40.6 PDT - mysticetus	Information	0	Application shutting down...
+2024-07-29 14:30:40.6 PDT - mysticetus	Information	0	Application shut down.
+2024-07-29 14:30:40.6 PDT - mysticetus	Information	0	MainForm_FormClosing - Cancel: False...
+2024-07-29 14:30:40.7 PDT - mysticetus	Information	0	App exiting.
+2024-07-29 14:30:40.7 PDT - mysticetus	Information	0	Git DFO.MPO - 40921 Shutdown
+2024-07-29 14:30:40.7 PDT - mysticetus	Information	0	Git DFO.CP.West - 7840021 Shutdown
+2024-07-29 14:30:40.7 PDT - mysticetus	Information	0	SpawnOnExit: C:\Users\david\AppData\Local\Programs\Mysticetus\mysticetus.exe /runmode:editing /advanced
