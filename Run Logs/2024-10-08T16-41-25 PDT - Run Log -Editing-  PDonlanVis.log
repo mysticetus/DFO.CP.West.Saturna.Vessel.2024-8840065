@@ -1,0 +1,151 @@
+﻿2024-10-08 16:41:25.1 PDT - mysticetus	Information	0	Mysticetus Version: 2024.41.0.0
+2024-10-08 16:41:25.2 PDT - mysticetus	Information	0	Application started.
+2024-10-08 16:41:25.2 PDT - mysticetus	Information	0	Command line: C:\Users\pdonl\AppData\Local\Programs\Mysticetus\mysticetus.dll /runmode:editing /advanced
+2024-10-08 16:41:25.2 PDT - mysticetus	Information	0	Time zone: (UTC-08:00) Pacific Time (US & Canada)
+2024-10-08 16:41:29.4 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Theo.2024-8840023 - Warning: Project is marked as Inactive. -    at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 823
+2024-10-08 16:41:29.4 PDT - mysticetus	Information	0	Warning: Project is marked as Inactive.
+2024-10-08 16:41:29.4 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Theo.2024-8840023, update frequency 00:00:00
+2024-10-08 16:41:29.4 PDT - mysticetus	Information	0	Git DFO.CP.West.Saturna.Theo.2024 - 8840023 Shutdown
+2024-10-08 16:41:30.2 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Theo.2024-8840023 - Warning: Project is marked as Inactive. -    at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 823
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	Warning: Project is marked as Inactive.
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Theo.2024-8840023, update frequency 00:01:00
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	RunMode: Editing
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	StationId: PDonlanVis
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	Vehicle: PDonlan
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	DisplayMap: True
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	AppDataPath: C:\Users\pdonl\AppData\Local\Mysticetus\Temp
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	EntryTemplatePath: C:\Users\pdonl\AppData\Local\Mysticetus\Temp\EntryTemplates
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	DataStoragePath: C:\Users\pdonl\AppData\Local\Mysticetus\Temp\Observations
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	InitialFile: C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Theo.2024-8840023\Template\DFO CP West Template.Mysticetus
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	TopoDirectory: 
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	CartographyDirectory: 
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	Email system initialized
+2024-10-08 16:41:30.2 PDT - mysticetus	Information	0	Mainform starting...
+2024-10-08 16:41:30.3 PDT - mysticetus	Information	0	MainForm_Load...
+2024-10-08 16:41:30.3 PDT - mysticetus	Information	0	Settings Deserialize...
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Settings Deserialize complete.
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Initializing Draw Manager
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Draw Manager successfully initialized.
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Control Manager Initializing...
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Control Manager successfully initialized.
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	Cartography Manager Initializing...
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Adak_DEM_985\adak_ak_1sec.hdr' successfully loaded.
+2024-10-08 16:41:30.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Adak_DEM_985\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1863\akutan_ak_8_3s.asc' failed to load. Error The given key 'nodata_value' was not present in the dictionary.
+2024-10-08 16:41:30.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1863\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1864\akutan_ak_8_15s.hdr' successfully loaded.
+2024-10-08 16:41:30.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1864\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.4 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1865\akutan_ak_8s.asc' failed to load. Error The given key 'nodata_value' was not present in the dictionary.
+2024-10-08 16:41:30.4 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Akutan_DEM_1865\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Atka_DEM_1001\atka_ak.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Atka_DEM_1001\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Atlantic_City_DEM_1005\atlantic_city_nj.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Atlantic_City_DEM_1005\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Chenega_DEM_1866\chenega_ak_8_15.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Chenega_DEM_1866\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Chignik_DEM_1021\chignik_ak_1s.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Chignik_DEM_1021\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Chignik_DEM_1024\chignik_bay_ak.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Chignik_DEM_1024\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Chignik_v.2_DEM_5077\chignik_v2_1sec.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Chignik_v.2_DEM_5077\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.5 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Chignik_v.2_DEM_5078\chignik_v2_1_3sec.hdr' successfully loaded.
+2024-10-08 16:41:30.5 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Chignik_v.2_DEM_5078\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\ETOPO1\Worldwide Bedrock (1 arc-minute).hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\La_Push_DEM_1092\la_push_wa.hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\La_Push_DEM_1092\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Northeast US CRM\US Northeast (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Ocean_City_DEM_1134\ocean_city_md.hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Ocean_City_DEM_1134\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Port_Townsend_DEM_1785\port_townsend_wa_1-3_arc-second_mhw.hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Port_Townsend_DEM_1785\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.6 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Port_Townsend_DEM_1790\port_townsend_wa_1-3_arc-second_navd88.hdr' successfully loaded.
+2024-10-08 16:41:30.6 PDT - mysticetus	Warning	0	Cannot convert C:\Users\Public\Documents\mysticetus\Elevation\Port_Townsend_DEM_1790\README.txt to FLT file. Text file is not CSV with X,Y,Z header -    at Entiat.Cartography.I2F4ElevationLayer.ConvertTxtToFlt(String path) in C:\src\mysticetus\entiat\Entiat\Cartography\I2F4ElevationLayer.cs:line 265
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Puget_Sound_DEM_5251\pugetsound_mhw_.hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\Puget_Sound_DEM_5253\pugetsound_navd88_.hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Central Gulf of Mexico CRM\US Central Gulf of Mexico (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Central Pacific CRM\US Central Pacific (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Florida CRM\US Florida (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Hawaii CRM\US Hawaii (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Northeast CRM\US Northeast (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Northwest Pacific CRM\US Northwest Pacific (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.7 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Puerto Rico CRM\US Puerto Rico (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Southeast CRM\US Southeast (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Southern California CRM\US Southern California (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	DEM 'C:\Users\Public\Documents\mysticetus\Elevation\US Western Gulf of Mexico CRM\US Western Gulf of Mexico (3 arc-second).hdr' successfully loaded.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	Cartography Manager successfully initialized.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	Geo Manager Initializing...
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	Geo Manager successfully initialized.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-10-08 16:41:30.8 PDT - mysticetus	Information	0	CreateTopTabControl complete.
+2024-10-08 16:41:30.9 PDT - mysticetus	Information	0	Loading file 'C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Theo.2024-8840023\Template\DFO CP West Template.Mysticetus'
+2024-10-08 16:41:31.3 PDT - mysticetus	Information	0	Settings Deserialize...
+2024-10-08 16:41:31.4 PDT - mysticetus	Information	0	Settings Deserialize complete.
+2024-10-08 16:41:31.8 PDT - mysticetus	Information	0	RebuildAllHotKeys...
+2024-10-08 16:41:31.8 PDT - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-10-08 16:41:31.8 PDT - mysticetus	Information	0	Network initialization started...
+2024-10-08 16:41:31.8 PDT - mysticetus	Information	0	Network Init - Success
+2024-10-08 16:41:32.0 PDT - mysticetus	Information	0	RTImports LoadState...
+2024-10-08 16:41:32.0 PDT - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-10-08 16:41:32.0 PDT - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-10-08 16:41:32.0 PDT - mysticetus	Information	0	Disposing RTImportShapefile
+2024-10-08 16:41:32.0 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-10-08 16:41:32.1 PDT - mysticetus	Information	0	RTImports LoadState complete.
+2024-10-08 16:41:37.3 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\pdonl\Mysticetus\Projects\DFO.CP-8830027 - Warning: Project is marked as Inactive. -    at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 823
+2024-10-08 16:41:37.3 PDT - mysticetus	Information	0	Warning: Project is marked as Inactive.
+2024-10-08 16:41:37.3 PDT - mysticetus	Information	0	Git task initialized - DFO.CP-8830027, update frequency 00:00:00
+2024-10-08 16:41:37.3 PDT - mysticetus	Information	0	Git DFO.CP - 8830027 Shutdown
+2024-10-08 16:41:38.0 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\pdonl\Mysticetus\Projects\DFO.CP-8830027 - Warning: Project is marked as Inactive. -    at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 823
+2024-10-08 16:41:38.0 PDT - mysticetus	Information	0	Warning: Project is marked as Inactive.
+2024-10-08 16:41:38.0 PDT - mysticetus	Information	0	Git task initialized - DFO.CP-8830027, update frequency 00:15:00
+2024-10-08 16:41:38.7 PDT - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-10-08 16:41:38.7 PDT - mysticetus	Information	0	Setting ActiveTrackIntervalSeconds: 0
+2024-10-08 16:41:38.7 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize...
+2024-10-08 16:41:38.7 PDT - mysticetus	Information	0	Geo Manager PostLoadInitialize complete.
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Network initialization started...
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Network Init - Success
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	RTImports LoadState...
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	RebuildAllHotKeys...
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Disposing RTInterfaceMapBox - 
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Disposing RTInterfaceCouchDbReplication
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Disposing RTImportShapefile
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Disposing RTInterfaceCamera
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	RebuildAllHotKeys complete.
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	CreateMapPage...
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	RTImports LoadState complete.
+2024-10-08 16:41:39.7 PDT - mysticetus	Information	0	Loaded file 'C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Theo.2024-8840023\Template\DFO CP West Template.Mysticetus'...
+2024-10-08 16:41:40.0 PDT - mysticetus	Information	0	GetOrCreateTopTabControl...
+2024-10-08 16:41:40.1 PDT - mysticetus	Information	0	CreateMapPage complete.
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\EquinorComplianceQuestions.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\EquinorReports.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\EquinorSimpleUI.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\InvenergyReports.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\OrstedReports.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\OrstedSimpleUI.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugin found - C:\Users\pdonl\AppData\Local\Programs\Mysticetus\Plugins\VineyardSimpleUI.dll
+2024-10-08 16:41:40.4 PDT - mysticetus	Information	0	Plugins initialized - 7 plugins found.
+2024-10-08 16:41:40.5 PDT - mysticetus	Information	0	MainForm_Load complete.
+2024-10-08 16:41:40.8 PDT - mysticetus	Information	0	MainForm_Shown...
+2024-10-08 16:41:40.8 PDT - mysticetus	Information	0	CheckBathy...
+2024-10-08 16:41:40.8 PDT - mysticetus	Information	0	CheckBathy complete.
+2024-10-08 16:41:40.8 PDT - mysticetus	Information	0	MainForm_Shown complete.
+2024-10-08 16:41:41.8 PDT - mysticetus	Information	0	Download Remote Update: Starting...
+2024-10-08 16:41:42.3 PDT - mysticetus	Information	0	Local version up to date.
+2024-10-08 16:41:42.3 PDT - mysticetus	Information	0	Check Update: Checking for local update availability...
+2024-10-08 16:41:42.3 PDT - mysticetus	Information	0	Check Update: No local update available.
+2024-10-08 16:41:47.4 PDT - mysticetus	Information	0	Map 'C:\Users\Public\Documents\mysticetus\Maps\Medium Res US Shoreline\us_medium_shoreline.shp' successfully loaded.
+2024-10-08 16:42:54.6 PDT - mysticetus	Error	0	Error reading readme.md in C:\Users\pdonl\Mysticetus\Projects\DFO.CP.West.Saturna.Vessel.2024-8840065 - Warning: Project is marked as Inactive. -    at mysticetus.Network.Git.InitProjectInfo() in C:\src\mysticetus\mysticetus\Network\Git.cs:line 823
+2024-10-08 16:42:54.6 PDT - mysticetus	Information	0	Warning: Project is marked as Inactive.
+2024-10-08 16:42:54.6 PDT - mysticetus	Information	0	Git task initialized - DFO.CP.West.Saturna.Vessel.2024-8840065, update frequency 00:00:00
+2024-10-08 16:42:54.6 PDT - mysticetus	Information	0	Git DFO.CP.West.Saturna.Vessel.2024 - 8840065 Shutdown
+2024-10-08 16:42:55.1 PDT - mysticetus	Information	0	MainForm_FormClosing...
+2024-10-08 16:42:55.1 PDT - mysticetus	Information	0	Application shutting down...
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	Application shut down.
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	MainForm_FormClosing - Cancel: False...
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	App exiting.
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	Git DFO.CP - 8830027 Shutdown
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	Git DFO.CP.West.Saturna.Theo.2024 - 8840023 Shutdown
+2024-10-08 16:42:55.2 PDT - mysticetus	Information	0	SpawnOnExit: C:\Users\pdonl\AppData\Local\Programs\Mysticetus\mysticetus.exe /runmode:editing /advanced
